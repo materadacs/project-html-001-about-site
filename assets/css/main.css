@@ -1,0 +1,30 @@
+body {
+    background-image: url("/images/paper-background-47.jpg");
+}
+h1 {
+    font-family: "Comic Sans MS";
+    text-align: center;
+}
+h2 {
+    color: brown;
+}
+h3 {
+    color: brown;
+}
+h4 {
+    color: brown;
+}
+h5 {
+    color: brown;
+}
+h6 {
+    color: brown;
+}
+p {
+    color: gray;
+}
+img {
+    width: 17%;
+    margin: 0.8%;
+    text-align: center;
+}
