@@ -24,9 +24,12 @@ p {
     color: gray;
 }
 img {
-    width: 17%;
+    width: 20%;
     margin: 0.8%;
     text-align: center;
+}
+.origami {
+    width: 100%;
 }
 .container .box {  
     width:540px;  
@@ -39,7 +42,7 @@ img {
 .container .box .box-cell {  
     display:table-cell;  
     width:33%;  
-    padding:10px;  
+    padding:10px;
 }  
 .container .box .box-cell.box1 {  
     background:grey;    
@@ -51,5 +54,5 @@ img {
 }  
 .container .box .box-cell.box3 {  
     background:grey;  
-    text-align:left;  
+    text-align:center;
 } 
