@@ -1,6 +1,28 @@
 body {
     background-image: url("/images/paper-background-47.jpg");
 }
+#header {
+    background-color: lightgray;
+    color: lightgray;
+    padding: 30px;
+    font-size: 20px;
+}
+footer {
+    background-color: lightgray;
+    color: lightgray;
+    padding: 50px;
+    font-size: 20px;
+}
+nav {
+    text-align: right;
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+a:hover {
+    color: lightslategrey;
+}
 h1 {
     font-family: "Comic Sans MS";
     text-align: center;
@@ -21,12 +43,14 @@ h6 {
     color: brown;
 }
 p {
-    color: gray;
+    color: black;
+    font-size: large;
 }
 img {
     width: 20%;
     margin: 0.8%;
     text-align: center;
+    box-shadow: 5px 10px #888888
 }
 .origami {
     width: 100%;
@@ -55,4 +79,4 @@ img {
 .container .box .box-cell.box3 {  
     background:grey;  
     text-align:center;
-} 
+}
